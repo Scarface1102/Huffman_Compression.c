@@ -1,6 +1,6 @@
 # Huffman_Compression.c
 
-Huffman Coding Compression Algorithm
+**Huffman Coding Compression Algorithm**
 
 **About**
 
