@@ -1,4 +1,4 @@
-# Huffman_Compression_Algo
+# Huffman_Compression_Algorithm
 
 **About**
 
